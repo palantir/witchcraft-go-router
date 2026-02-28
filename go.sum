@@ -12,8 +12,8 @@ github.com/palantir/pkg/metrics v1.10.1 h1:NG/TSZIOtdCKS5pXSWhG6Wk2fzZhxa3MuINpQ
 github.com/palantir/pkg/metrics v1.10.1/go.mod h1:etZRED9/ZNlDPR4SAm6tZhyQI0HmAN1ecHf+wR1HaDY=
 github.com/palantir/pkg/objmatcher v1.2.0 h1:cR0IX2NXAhR1hRFBFUwA7y/+m4CtpXUCm5tabqdvS6I=
 github.com/palantir/pkg/objmatcher v1.2.0/go.mod h1:ekDpUDezSoBcD47CUWo9xbYTGycIkiM2ODvxHCUR+lQ=
-github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
-github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stathat/go v1.0.0/go.mod h1:+9Eg2szqkcOGWv6gfheJmBBsmq9Qf5KDbzy8/aYYR0c=
