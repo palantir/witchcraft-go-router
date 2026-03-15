@@ -6,7 +6,7 @@ require (
 	github.com/gorilla/mux v1.8.1
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/palantir/pkg/metrics v1.10.1
-	github.com/palantir/witchcraft-go-error v1.42.0
+	github.com/palantir/witchcraft-go-error v1.43.0
 	github.com/stretchr/testify v1.11.1
 )
 
