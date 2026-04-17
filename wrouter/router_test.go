@@ -344,7 +344,7 @@ func TestRouterMiddlewareRegistration(t *testing.T) {
 		}
 	}
 	echoMarkingHandler := http.HandlerFunc(func(rw http.ResponseWriter, req *http.Request) {
-		_, _ = rw.Write([]byte(fmt.Sprint(req.Context().Value(ctxKey{}))))
+		_, _ = rw.Write(fmt.Append(nil, req.Context().Value(ctxKey{})))
 	})
 
 	// create router
