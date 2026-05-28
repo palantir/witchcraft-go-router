@@ -2,6 +2,8 @@ module github.com/palantir/witchcraft-go-router
 
 go 1.26.0
 
+toolchain go1.26.3
+
 require (
 	github.com/gorilla/mux v1.8.1
 	github.com/julienschmidt/httprouter v1.3.0
