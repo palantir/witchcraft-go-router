@@ -10,8 +10,8 @@ github.com/palantir/pkg/metrics v1.11.0 h1:rqsqnDmN4wVg+w3UlHxcLAmqR3Uises0DmLhS
 github.com/palantir/pkg/metrics v1.11.0/go.mod h1:G7Ul6UHU5MM1l2gFvH+4uQ26MQ1ny8ItJ4RpxOeBJ3c=
 github.com/palantir/pkg/objmatcher v1.2.0 h1:cR0IX2NXAhR1hRFBFUwA7y/+m4CtpXUCm5tabqdvS6I=
 github.com/palantir/pkg/objmatcher v1.2.0/go.mod h1:ekDpUDezSoBcD47CUWo9xbYTGycIkiM2ODvxHCUR+lQ=
-github.com/palantir/witchcraft-go-error v1.51.0 h1:wmlzMm/7rj0SGHhuSe5NAsKSi7ICmFFUSFKOrJSlG+U=
-github.com/palantir/witchcraft-go-error v1.51.0/go.mod h1:tqPzDsIBZnH1wJ9hjbeYJtIDEFZS5v8sKNUmRRNeBy0=
+github.com/palantir/witchcraft-go-error v1.52.0 h1:F8day0K4Gw27j2LBDaVfZwamJi1xgfrZzREFioGozYI=
+github.com/palantir/witchcraft-go-error v1.52.0/go.mod h1:0QtYJxZT4kImF23FvUBOXM9djDraot7nxlMBp2rvxkk=
 github.com/palantir/witchcraft-go-params v1.50.0 h1:XyItIFee99iBN6hBcWYIDBRigy6+sLInpx5BYxPNl7U=
 github.com/palantir/witchcraft-go-params v1.50.0/go.mod h1:8I6OxXNOKFP0C3tOw03DPtPA++LT4jM/tMYj/TkgLFE=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
